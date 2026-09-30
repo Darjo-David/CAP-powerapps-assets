@@ -1,0 +1,1887 @@
+[
+  {
+    "FieldName": "Q11Assessments",
+    "LogicalColumnName": "cr5c2_q11assessments",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11ClinicalEval",
+    "LogicalColumnName": "cr5c2_q11clinicaleval",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11Clinician",
+    "LogicalColumnName": "cr5c2_q11clinician",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11Delivery",
+    "LogicalColumnName": "cr5c2_q11delivery",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11EmergencyPlanning",
+    "LogicalColumnName": "cr5c2_q11emergencyplanning",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11EnvSafetyAssess",
+    "LogicalColumnName": "cr5c2_q11envsafetyassess",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11Equipment",
+    "LogicalColumnName": "cr5c2_q11equipment",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11EscalDetails",
+    "LogicalColumnName": "cr5c2_q11escaldetails",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11EscalRequired",
+    "LogicalColumnName": "cr5c2_q11escalrequired",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11FlowRate",
+    "LogicalColumnName": "cr5c2_q11flowrate",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11FunctCogAssess",
+    "LogicalColumnName": "cr5c2_q11functcogassess",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11HighRiskMedi",
+    "LogicalColumnName": "cr5c2_q11highriskmedi",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11HospitalAdmin",
+    "LogicalColumnName": "cr5c2_q11hospitaladmin",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11MediDoc",
+    "LogicalColumnName": "cr5c2_q11medidoc",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11MissingDocs",
+    "LogicalColumnName": "cr5c2_q11missingdocs",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11OxySaturation",
+    "LogicalColumnName": "cr5c2_q11oxysaturation",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11Referrals",
+    "LogicalColumnName": "cr5c2_q11referrals",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11ReviewDate",
+    "LogicalColumnName": "cr5c2_q11reviewdate",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11Saved",
+    "LogicalColumnName": "cr5c2_q11saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11SupplierID",
+    "LogicalColumnName": "cr5c2_q11supplierid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q11Type",
+    "LogicalColumnName": "cr5c2_q11type",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Assessments",
+    "LogicalColumnName": "cr5c2_q12assessments",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12ClinicalOversight",
+    "LogicalColumnName": "cr5c2_q12clinicaloversight",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Device",
+    "LogicalColumnName": "cr5c2_q12device",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Diagnosis",
+    "LogicalColumnName": "cr5c2_q12diagnosis",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12DiagOtherDetails",
+    "LogicalColumnName": "cr5c2_q12diagotherdetails",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Equipment",
+    "LogicalColumnName": "cr5c2_q12equipment",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12LastReviewDate",
+    "LogicalColumnName": "cr5c2_q12lastreviewdate",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12LastStudyDate",
+    "LogicalColumnName": "cr5c2_q12laststudydate",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Referrals",
+    "LogicalColumnName": "cr5c2_q12referrals",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12SafetyRisk",
+    "LogicalColumnName": "cr5c2_q12safetyrisk",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Saved",
+    "LogicalColumnName": "cr5c2_q12saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12SupplierID",
+    "LogicalColumnName": "cr5c2_q12supplierid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12SupportPlanning",
+    "LogicalColumnName": "cr5c2_q12supportplanning",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q12Usage",
+    "LogicalColumnName": "cr5c2_q12usage",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q1HaveDisability",
+    "LogicalColumnName": "cr5c2_q1havedisability",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q1Saved",
+    "LogicalColumnName": "cr5c2_q1saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AdjustCleaning",
+    "LogicalColumnName": "cr5c2_q2adjustcleaning",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AdjustFood",
+    "LogicalColumnName": "cr5c2_q2adjustfood",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AdjustOther",
+    "LogicalColumnName": "cr5c2_q2adjustother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AdjustPersonal",
+    "LogicalColumnName": "cr5c2_q2adjustpersonal",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AdjustTech",
+    "LogicalColumnName": "cr5c2_q2adjusttech",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AllergyAlert",
+    "LogicalColumnName": "cr5c2_q2allergyalert",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2FoodsOther",
+    "LogicalColumnName": "cr5c2_q2allergyother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AllergyVer",
+    "LogicalColumnName": "cr5c2_q2allergyver",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Assessments",
+    "LogicalColumnName": "cr5c2_q2assessments",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Medication",
+    "LogicalColumnName": "cr5c2_q2avoid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AvoidAllergy",
+    "LogicalColumnName": "cr5c2_q2avoidallergy",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AvoidOther",
+    "LogicalColumnName": "cr5c2_q2avoidother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Communication",
+    "LogicalColumnName": "cr5c2_q2communication",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2ComOther",
+    "LogicalColumnName": "cr5c2_q2comother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2DiagAsthmaResp",
+    "LogicalColumnName": "cr5c2_q2diagasthmaresp",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2DiagAsthmaRespOther",
+    "LogicalColumnName": "cr5c2_q2diagasthmarespother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2EmergencyMed",
+    "LogicalColumnName": "cr5c2_q2emergencymed",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2EmergencyResp",
+    "LogicalColumnName": "cr5c2_q2emergencyresp",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2EnviroSafety",
+    "LogicalColumnName": "cr5c2_q2envirosafety",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2EnvOther",
+    "LogicalColumnName": "cr5c2_q2exposed",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2MedicalCare",
+    "LogicalColumnName": "cr5c2_q2medicalcare",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2MediManagement",
+    "LogicalColumnName": "cr5c2_q2medimanagement",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2NutriHydration",
+    "LogicalColumnName": "cr5c2_q2nutrihydration",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2OtherProducts",
+    "LogicalColumnName": "cr5c2_q2otherproducts",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Preferences",
+    "LogicalColumnName": "cr5c2_q2preferences",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2TopicalOther",
+    "LogicalColumnName": "cr5c2_q2products",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2RecentReaction",
+    "LogicalColumnName": "cr5c2_q2recentreaction",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2RedFlag",
+    "LogicalColumnName": "cr5c2_q2redflag",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Referrals",
+    "LogicalColumnName": "cr5c2_q2referrals",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2RespAssess",
+    "LogicalColumnName": "cr5c2_q2respassess",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Saved",
+    "LogicalColumnName": "cr5c2_q2saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2SkinAssess",
+    "LogicalColumnName": "cr5c2_q2skinassess",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q3Barrier",
+    "LogicalColumnName": "cr5c2_q3barrier",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q3BarrierOther",
+    "LogicalColumnName": "cr5c2_q3barrierother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q3Prefer",
+    "LogicalColumnName": "cr5c2_q3prefer",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q3Saved",
+    "LogicalColumnName": "cr5c2_q3saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4ClName",
+    "LogicalColumnName": "cr5c2_q4clname",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4ConsentAck",
+    "LogicalColumnName": "cr5c2_q4consentack",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4ConsentDate",
+    "LogicalColumnName": "cr5c2_q4consentdate",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4ConsentType",
+    "LogicalColumnName": "cr5c2_q4consenttype",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4FollowingVitamins",
+    "LogicalColumnName": "cr5c2_q4followingvitamins",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4GPContact",
+    "LogicalColumnName": "cr5c2_q4gpcontact",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4GPName",
+    "LogicalColumnName": "cr5c2_q4gpname",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4HMRInfoSharing",
+    "LogicalColumnName": "cr5c2_q4hmrinfosharing",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4HMRPast",
+    "LogicalColumnName": "cr5c2_q4hmrpast",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4HMRRefRequest",
+    "LogicalColumnName": "cr5c2_q4hmrrefrequest",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4ManageMed",
+    "LogicalColumnName": "cr5c2_q4managemed",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4MedChanges",
+    "LogicalColumnName": "cr5c2_q4medchanges",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4MedDoAnyApply",
+    "LogicalColumnName": "cr5c2_q4meddoanyapply",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4MedInfo",
+    "LogicalColumnName": "cr5c2_q4medinfo",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4MedList",
+    "LogicalColumnName": "cr5c2_q4medlist",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4MedListAvail",
+    "LogicalColumnName": "cr5c2_q4medlistavail",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4OTCMedicines",
+    "LogicalColumnName": "cr5c2_q4otcmedicines",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4OtherVitamins",
+    "LogicalColumnName": "cr5c2_q4othervitamins",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PharmContact",
+    "LogicalColumnName": "cr5c2_q4pharmcontact",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PharmName",
+    "LogicalColumnName": "cr5c2_q4pharmname",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PolyMixedMed",
+    "LogicalColumnName": "cr5c2_q4polymixedmed",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PolyNumMeds",
+    "LogicalColumnName": "cr5c2_q4polynummeds",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PolyRisk",
+    "LogicalColumnName": "cr5c2_q4polyrisk",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PrescMedicines",
+    "LogicalColumnName": "cr5c2_q4prescmedicines",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4PRNMedicines",
+    "LogicalColumnName": "cr5c2_q4prnmedicines",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4Saved",
+    "LogicalColumnName": "cr5c2_q4saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4StaffNameRole",
+    "LogicalColumnName": "cr5c2_q4staffnamerole",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4TakeVitamins",
+    "LogicalColumnName": "cr5c2_q4takevitamins",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q4Witness",
+    "LogicalColumnName": "cr5c2_q4witness",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5AmtOfChange",
+    "LogicalColumnName": "cr5c2_q5amtofchange",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5BMI",
+    "LogicalColumnName": "cr5c2_q5bmi",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5CareActions",
+    "LogicalColumnName": "cr5c2_q5careactions",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5DateMeasured",
+    "LogicalColumnName": "cr5c2_q5datemeasured",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5DirChange",
+    "LogicalColumnName": "cr5c2_q5dirchange",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5Height",
+    "LogicalColumnName": "cr5c2_q5height",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAAssessMonRef",
+    "LogicalColumnName": "cr5c2_q5pathaassessmonref",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathACarePlanAct",
+    "LogicalColumnName": "cr5c2_q5pathacareplanact",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAChartDate",
+    "LogicalColumnName": "cr5c2_q5pathachartdate",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAChartDet",
+    "LogicalColumnName": "cr5c2_q5pathachartdet",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAContWeightMonOther",
+    "LogicalColumnName": "cr5c2_q5pathacontweightmonother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAMalScreenDet",
+    "LogicalColumnName": "cr5c2_q5pathamalscreendet",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAMedi",
+    "LogicalColumnName": "cr5c2_q5pathamedi",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAMedical",
+    "LogicalColumnName": "cr5c2_q5pathamedical",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathANutrition",
+    "LogicalColumnName": "cr5c2_q5pathanutrition",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathANutStratImp",
+    "LogicalColumnName": "cr5c2_q5pathanutstratimp",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAOral",
+    "LogicalColumnName": "cr5c2_q5pathaoral",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAPsycho",
+    "LogicalColumnName": "cr5c2_q5pathapsycho",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathARefOther",
+    "LogicalColumnName": "cr5c2_q5patharefother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAToolUsed",
+    "LogicalColumnName": "cr5c2_q5pathatoolused",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathAWLIntReason",
+    "LogicalColumnName": "cr5c2_q5pathawlintreason",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBAssessMonRef",
+    "LogicalColumnName": "cr5c2_q5pathbassesmonref",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBChangesDetails",
+    "LogicalColumnName": "cr5c2_q5pathbchangesdetails",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBCPAAssocSymptoms",
+    "LogicalColumnName": "cr5c2_q5pathbcpaassocsymptoms",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBCPAGoals",
+    "LogicalColumnName": "cr5c2_q5pathbcpagoals",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBCPAMediChanges",
+    "LogicalColumnName": "cr5c2_q5pathbcpamedichanges",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBCPAWeighGain",
+    "LogicalColumnName": "cr5c2_q5pathbcpaweighgain",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBFluidStatus",
+    "LogicalColumnName": "cr5c2_q5pathbfluidstatus",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntAClinical",
+    "LogicalColumnName": "cr5c2_q5pathbintaclinical",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntADiet",
+    "LogicalColumnName": "cr5c2_q5pathbintadiet",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntAMonitoring",
+    "LogicalColumnName": "cr5c2_q5pathbintamonitoring",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntASupport",
+    "LogicalColumnName": "cr5c2_q5pathbintasupport",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntBActivity",
+    "LogicalColumnName": "cr5c2_q5pathbintbactivity",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntBDiet",
+    "LogicalColumnName": "cr5c2_q5pathbintbdiet",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntBMedication",
+    "LogicalColumnName": "cr5c2_q5pathbintbmedication",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntBMonitoring",
+    "LogicalColumnName": "cr5c2_q5pathbintbmonitoring",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBIntBWeightMonOther",
+    "LogicalColumnName": "cr5c2_q5pathbintbweightmonother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBLifestyleFunct",
+    "LogicalColumnName": "cr5c2_q5pathblifestylefunct",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBMedi",
+    "LogicalColumnName": "cr5c2_q5pathbmedi",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBCPAMedicalHist",
+    "LogicalColumnName": "cr5c2_q5pathbmedicalhist",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBMediHistOther",
+    "LogicalColumnName": "cr5c2_q5pathbmedihistother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBOedemaLocation",
+    "LogicalColumnName": "cr5c2_q5pathboedemalocation",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBOther",
+    "LogicalColumnName": "cr5c2_q5pathbother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBRefOther",
+    "LogicalColumnName": "cr5c2_q5pathbrefother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBTargetTimeframe",
+    "LogicalColumnName": "cr5c2_q5pathbtargettimeframe",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBTargetWeight",
+    "LogicalColumnName": "cr5c2_q5pathbtargetweight",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBToolUsed",
+    "LogicalColumnName": "cr5c2_q5pathbtoolused",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5PathBWGIntReason",
+    "LogicalColumnName": "cr5c2_q5pathbwgintreason",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5RedFlagChk",
+    "LogicalColumnName": "cr5c2_q5redflagchk",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5RNDecision",
+    "LogicalColumnName": "cr5c2_q5rndecision",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5Saved",
+    "LogicalColumnName": "cr5c2_q5saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5TimeframeLossGain",
+    "LogicalColumnName": "cr5c2_q5timeframelossgain",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5Ulna",
+    "LogicalColumnName": "cr5c2_q5ulna",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5UsualWeight",
+    "LogicalColumnName": "cr5c2_q5usualweight",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5Weight",
+    "LogicalColumnName": "cr5c2_q5weight",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5WeightChanges",
+    "LogicalColumnName": "cr5c2_q5weightchanges",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5WeightStability",
+    "LogicalColumnName": "cr5c2_q5weightstability",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5WGIntReason",
+    "LogicalColumnName": "cr5c2_q5wgintreason",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5WLIntReason",
+    "LogicalColumnName": "cr5c2_q5wlintreason",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q5WLUnIntReason",
+    "LogicalColumnName": "cr5c2_q5wlunintreason",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9Actions",
+    "LogicalColumnName": "cr5c2_q9actions",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9Assessments",
+    "LogicalColumnName": "cr5c2_q9assessments",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9BasicRisk",
+    "LogicalColumnName": "cr5c2_q9basicrisk",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9MediRiskHistory",
+    "LogicalColumnName": "cr5c2_q9mediriskhistory",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9NeuroCondition",
+    "LogicalColumnName": "cr5c2_q9neurocondition",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9RedFlag",
+    "LogicalColumnName": "cr5c2_q9redflag",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9Referrals",
+    "LogicalColumnName": "cr5c2_q9referrals",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9RiskFactors",
+    "LogicalColumnName": "cr5c2_q9riskfactors",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9SafetyMeasures",
+    "LogicalColumnName": "cr5c2_q9safetymeasures",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9Saved",
+    "LogicalColumnName": "cr5c2_q9saved",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9SupportPlan",
+    "LogicalColumnName": "cr5c2_q9supportplan",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q9Symptom",
+    "LogicalColumnName": "cr5c2_q9symptom",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Archived",
+    "LogicalColumnName": "darjo_archived",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "ClientKey",
+    "LogicalColumnName": "darjo_clientkey",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "DarjoRNReview",
+    "LogicalColumnName": "darjo_darjornreviewid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2MedicationList",
+    "LogicalColumnName": "darjo_medicationlist",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "ProviderID",
+    "LogicalColumnName": "darjo_providerid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AddReaction",
+    "LogicalColumnName": "darjo_q2additionalreaction",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2AllergiesOther",
+    "LogicalColumnName": "darjo_q2allergiesother",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2CPRequirements",
+    "LogicalColumnName": "darjo_q2cprequirements",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Environmental",
+    "LogicalColumnName": "darjo_q2environmental",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Foods",
+    "LogicalColumnName": "darjo_q2foods",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2MildReaction",
+    "LogicalColumnName": "darjo_q2mildreaction",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2ModReaction",
+    "LogicalColumnName": "darjo_q2modreaction",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2RevRequirements",
+    "LogicalColumnName": "darjo_q2revrequirements",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2SelfManage",
+    "LogicalColumnName": "darjo_q2selfmanage",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2ServDelivery",
+    "LogicalColumnName": "darjo_q2servdelivery",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2SevereReaction",
+    "LogicalColumnName": "darjo_q2severereaction",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q2Topical",
+    "LogicalColumnName": "darjo_q2topical",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "RefID",
+    "LogicalColumnName": "darjo_refid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "RNRevID",
+    "LogicalColumnName": "darjo_rnrevid",
+    "SourceTable": "DarjoRNReview"
+  },
+  {
+    "FieldName": "Q14AcceptPainLvl",
+    "LogicalColumnName": "cr5c2_q14acceptpainlvl",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Assessments",
+    "LogicalColumnName": "cr5c2_q14assessments",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Behavioral",
+    "LogicalColumnName": "cr5c2_q14behavioral",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14BodyMovement",
+    "LogicalColumnName": "cr5c2_q14bodymovement",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14CarePlanning",
+    "LogicalColumnName": "cr5c2_q14careplanning",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14CommAssess",
+    "LogicalColumnName": "cr5c2_q14commassess",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14CurrPainMedic",
+    "LogicalColumnName": "cr5c2_q14currpainmedic",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Documentation",
+    "LogicalColumnName": "cr5c2_q14documentation",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Education",
+    "LogicalColumnName": "cr5c2_q14education",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14FacialExpr",
+    "LogicalColumnName": "cr5c2_q14facialexpr",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14FLACCRedFlag",
+    "LogicalColumnName": "cr5c2_q14flaccredflag",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14FLACCRiskRating",
+    "LogicalColumnName": "cr5c2_q14flaccriskrating",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14FunctImpactRisk",
+    "LogicalColumnName": "cr5c2_q14functimpactrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Goals",
+    "LogicalColumnName": "cr5c2_q14goals",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14HighRiskMedic",
+    "LogicalColumnName": "cr5c2_q14highriskmedic",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14ImmediateSafety",
+    "LogicalColumnName": "cr5c2_q14immediatesafety",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14LegMovement",
+    "LogicalColumnName": "cr5c2_q14legmovement",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Location",
+    "LogicalColumnName": "cr5c2_q14location",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14LocationOther",
+    "LogicalColumnName": "cr5c2_q14locationother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14MediEffectiveness",
+    "LogicalColumnName": "cr5c2_q14medieffectiveness",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14MediRisks",
+    "LogicalColumnName": "cr5c2_q14medirisks",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14MonReviewTrigger",
+    "LogicalColumnName": "cr5c2_q14monreviewtrigger",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14NonPharmaIntervention",
+    "LogicalColumnName": "cr5c2_q14nonpharmaintervention",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PainAffects",
+    "LogicalColumnName": "cr5c2_q14painaffects",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PainScore",
+    "LogicalColumnName": "cr5c2_q14painscore",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PharmaIntervention",
+    "LogicalColumnName": "cr5c2_q14pharmaintervention",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PQRSTRedFlag",
+    "LogicalColumnName": "cr5c2_q14pqrstredflag",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PQRSTRiskRating",
+    "LogicalColumnName": "cr5c2_q14pqrstriskrating",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PreventCare",
+    "LogicalColumnName": "cr5c2_q14preventcare",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14ProvPalliation",
+    "LogicalColumnName": "cr5c2_q14provpalliation",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14PsychImpact",
+    "LogicalColumnName": "cr5c2_q14psychimpact",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Quality",
+    "LogicalColumnName": "cr5c2_q14quality",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14QualOther",
+    "LogicalColumnName": "cr5c2_q14qualother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14ReasonFLACC",
+    "LogicalColumnName": "cr5c2_q14reasonflacc",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14ReasonFLACCOther",
+    "LogicalColumnName": "cr5c2_q14reasonflaccother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14RedFlag",
+    "LogicalColumnName": "cr5c2_q14redflag",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Referrals",
+    "LogicalColumnName": "cr5c2_q14referrals",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Region",
+    "LogicalColumnName": "cr5c2_q14region",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14ResponseReassurance",
+    "LogicalColumnName": "cr5c2_q14responsereassurance",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Saved",
+    "LogicalColumnName": "cr5c2_q14saved",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Timing",
+    "LogicalColumnName": "cr5c2_q14timing",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14Validate",
+    "LogicalColumnName": "cr5c2_q14validate",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q14VocalSounds",
+    "LogicalColumnName": "cr5c2_q14vocalsounds",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15ClinicalHealthDetails",
+    "LogicalColumnName": "cr5c2_q15clinicalhealthdetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15EnvSafetyRiskDetails",
+    "LogicalColumnName": "cr5c2_q15envsafetyriskdetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15HealthConsDetails",
+    "LogicalColumnName": "cr5c2_q15healthconsdetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15HealthHist",
+    "LogicalColumnName": "cr5c2_q15healthhist",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15NonSmokerStatus",
+    "LogicalColumnName": "cr5c2_q15nonsmokerstatus",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15PersonUnderDetails",
+    "LogicalColumnName": "cr5c2_q15personunderdetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15PrefNonDetails",
+    "LogicalColumnName": "cr5c2_q15prefnondetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15RiskDetails",
+    "LogicalColumnName": "cr5c2_q15riskdetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15RiskPlanDetails",
+    "LogicalColumnName": "cr5c2_q15riskplandetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15Saved",
+    "LogicalColumnName": "cr5c2_q15saved",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15SupportOfferedDetails",
+    "LogicalColumnName": "cr5c2_q15supportoffereddetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15TypeDuration",
+    "LogicalColumnName": "cr5c2_q15typeduration",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15TypeFreq",
+    "LogicalColumnName": "cr5c2_q15typefreq",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15TypeOther",
+    "LogicalColumnName": "cr5c2_q15typeother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15YearCeased",
+    "LogicalColumnName": "cr5c2_q15yearceased",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17AccessEquity",
+    "LogicalColumnName": "cr5c2_q17accessequity",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17Adherence",
+    "LogicalColumnName": "cr5c2_q17adherence",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17BarriersCare",
+    "LogicalColumnName": "cr5c2_q17barrierscare",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ClinicalRefAct",
+    "LogicalColumnName": "cr5c2_q17clinicalrefact",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ComfortIssue",
+    "LogicalColumnName": "cr5c2_q17comfortissue",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ContLensRisk",
+    "LogicalColumnName": "cr5c2_q17contlensrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17DiabetesDet",
+    "LogicalColumnName": "cr5c2_q17diabetesdet",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17DifficultiesWearing",
+    "LogicalColumnName": "cr5c2_q17difficultieswearing",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17Education",
+    "LogicalColumnName": "cr5c2_q17education",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17EffVisAids",
+    "LogicalColumnName": "cr5c2_q17effvisaids",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17EnvMods",
+    "LogicalColumnName": "cr5c2_q17envmods",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17EnvRisk",
+    "LogicalColumnName": "cr5c2_q17envrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17EquipIssIdentified",
+    "LogicalColumnName": "cr5c2_q17equipissidentified",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17EquipSupports",
+    "LogicalColumnName": "cr5c2_q17equipsupports",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17EyeCondDet",
+    "LogicalColumnName": "cr5c2_q17eyeconddet",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17FallsDet",
+    "LogicalColumnName": "cr5c2_q17fallsdet",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17FallsRisk",
+    "LogicalColumnName": "cr5c2_q17fallsrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17FunctConsider",
+    "LogicalColumnName": "cr5c2_q17functconsider",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17GlassesImproveVis",
+    "LogicalColumnName": "cr5c2_q17glassesimprovevis",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ImpIndepend",
+    "LogicalColumnName": "cr5c2_q17impindepend",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ImportanceWearingAids",
+    "LogicalColumnName": "cr5c2_q17importancewearingaids",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17InsightSightCond",
+    "LogicalColumnName": "cr5c2_q17insightsightcond",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17MediSafetyRisk",
+    "LogicalColumnName": "cr5c2_q17medisafetyrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ObsFindings",
+    "LogicalColumnName": "cr5c2_q17obsfindings",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17ReviewDate",
+    "LogicalColumnName": "cr5c2_q17reviewdate",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17RevPlan",
+    "LogicalColumnName": "cr5c2_q17revplan",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17SafetyInterv",
+    "LogicalColumnName": "cr5c2_q17safetyinterv",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17Saved",
+    "LogicalColumnName": "cr5c2_q17saved",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17VisAidType",
+    "LogicalColumnName": "cr5c2_q17visaidtype",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17VisHistory",
+    "LogicalColumnName": "cr5c2_q17vishistory",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17VisImpairment",
+    "LogicalColumnName": "cr5c2_q17visimpairment",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17VisInsights",
+    "LogicalColumnName": "cr5c2_q17visinsights",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q17Vision",
+    "LogicalColumnName": "cr5c2_q17vision",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18HearingAidBrand",
+    "LogicalColumnName": "cr5c2_q18aidbrand",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18Assessments",
+    "LogicalColumnName": "cr5c2_q18assessments",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18AudioReviewDate",
+    "LogicalColumnName": "cr5c2_q18audioreviewdate",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18Comms",
+    "LogicalColumnName": "cr5c2_q18comms",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18CommScrn",
+    "LogicalColumnName": "cr5c2_q18commscrn",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18GenObs",
+    "LogicalColumnName": "cr5c2_q18genobs",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18HearingAidAssess",
+    "LogicalColumnName": "cr5c2_q18hearingaidassess",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18HearingAidProv",
+    "LogicalColumnName": "cr5c2_q18hearingaidprov",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18ManagementAssess",
+    "LogicalColumnName": "cr5c2_q18managementassess",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18RedFlags",
+    "LogicalColumnName": "cr5c2_q18redflags",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18Referrals",
+    "LogicalColumnName": "cr5c2_q18referrals",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18ReferralsNo",
+    "LogicalColumnName": "cr5c2_q18referralsno",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18RefTriggers",
+    "LogicalColumnName": "cr5c2_q18reftriggers",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18RiskOther",
+    "LogicalColumnName": "cr5c2_q18riskother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18Risks",
+    "LogicalColumnName": "cr5c2_q18risks",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18SafetyRefTriggers",
+    "LogicalColumnName": "cr5c2_q18safetyreftriggers",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q18Saved",
+    "LogicalColumnName": "cr5c2_q18saved",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21AbilityHow",
+    "LogicalColumnName": "cr5c2_q21abilityhow",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21AppetiteWhatWay",
+    "LogicalColumnName": "cr5c2_q21appetitewhatway",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ChangesInAppetite",
+    "LogicalColumnName": "cr5c2_q21changesinweight",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ContactIfLow",
+    "LogicalColumnName": "cr5c2_q21contactiflow",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21DiagMentalHealth",
+    "LogicalColumnName": "cr5c2_q21diagmentalhealth",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21DocLastReview",
+    "LogicalColumnName": "cr5c2_q21doclastreview",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21DocNextReview",
+    "LogicalColumnName": "cr5c2_q21docnextreview",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21FeltDepress",
+    "LogicalColumnName": "cr5c2_q21feltdepress",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21FeltDepressDetails",
+    "LogicalColumnName": "cr5c2_q21feltdepressdetails",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21HarderHow",
+    "LogicalColumnName": "cr5c2_q21harderhow",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21HarderToShower",
+    "LogicalColumnName": "cr5c2_q21hardertoshower",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21LastFeelDepressed",
+    "LogicalColumnName": "cr5c2_q21lastfeeldepressed",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediAdherence",
+    "LogicalColumnName": "cr5c2_q21mediahereance",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediDoseFreq",
+    "LogicalColumnName": "cr5c2_q21medidosefreq",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediEffective",
+    "LogicalColumnName": "cr5c2_q21medieffective",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediIndication",
+    "LogicalColumnName": "cr5c2_q21mediindication",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediName",
+    "LogicalColumnName": "cr5c2_q21mediname",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediPrescriber",
+    "LogicalColumnName": "cr5c2_q21mediprescriber",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MediSideEffects",
+    "LogicalColumnName": "cr5c2_q21medisideeffects",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MentalCondOther",
+    "LogicalColumnName": "cr5c2_q21mentalcondother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MentalCondType",
+    "LogicalColumnName": "cr5c2_q21mentalcondtype",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MentalHealthOther",
+    "LogicalColumnName": "cr5c2_q21mentalhealthother",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21AbilityAffected",
+    "LogicalColumnName": "cr5c2_q21moodaffectedability",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21NotTakingWhy",
+    "LogicalColumnName": "cr5c2_q21nottakingwhy",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21OftenLeaveHouse",
+    "LogicalColumnName": "cr5c2_q21oftenleavehouse",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21PastWeeksFeeling",
+    "LogicalColumnName": "cr5c2_q21pastweeksfeeling",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21PastWeeksInterest",
+    "LogicalColumnName": "cr5c2_q21pastweeksinterest",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ReturnedToUsualSelf",
+    "LogicalColumnName": "cr5c2_q21returnedtousualself",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ReturnToUsualSelfDoc",
+    "LogicalColumnName": "cr5c2_q21returntousualselfdoc",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21UsualSelf",
+    "LogicalColumnName": "cr5c2_q21retusualself",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ContactDetail",
+    "LogicalColumnName": "cr5c2_q21retusualselfdetail",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21Saved",
+    "LogicalColumnName": "cr5c2_q21saved",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21SleepAffected",
+    "LogicalColumnName": "cr5c2_q21sleepaffected",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21SleepHow",
+    "LogicalColumnName": "cr5c2_q21sleephow",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21SleepNextDay",
+    "LogicalColumnName": "cr5c2_q21sleepnextday",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21StillTakingMedication",
+    "LogicalColumnName": "cr5c2_q21stilltakingmedication",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21SuppPrevReturn",
+    "LogicalColumnName": "cr5c2_q21suppprevreturn",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21TakenMedication",
+    "LogicalColumnName": "cr5c2_q21takenmedication",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ThoughtsOfHarmAction",
+    "LogicalColumnName": "cr5c2_q21thoughtsofharmaction",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ThoughtsOfHarmDie",
+    "LogicalColumnName": "cr5c2_q21thoughtsofharmdie",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21WhyStopped",
+    "LogicalColumnName": "cr5c2_q21whystopped",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23Assessments",
+    "LogicalColumnName": "cr5c2_q23assessments",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23CarePlanning",
+    "LogicalColumnName": "cr5c2_q23careplanning",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23CarePlanningYes",
+    "LogicalColumnName": "cr5c2_q23careplanningyes",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23FunctAssess",
+    "LogicalColumnName": "cr5c2_q23functassess",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23FunctAssessYes",
+    "LogicalColumnName": "cr5c2_q23functassessyes",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23PersonCentredCare",
+    "LogicalColumnName": "cr5c2_q23personcentredcare",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23PractitionerName",
+    "LogicalColumnName": "cr5c2_q23practitionername",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23PractitionerPractice",
+    "LogicalColumnName": "cr5c2_q23practitionerpractice",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23PrevEducation",
+    "LogicalColumnName": "cr5c2_q23preveducation",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23Referrals",
+    "LogicalColumnName": "cr5c2_q23referrals",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23ReviewDate",
+    "LogicalColumnName": "cr5c2_q23reviewdate",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23RNOutcome",
+    "LogicalColumnName": "cr5c2_q23rnoutcome",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23SafetyRisk",
+    "LogicalColumnName": "cr5c2_q23safetyrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23Saved",
+    "LogicalColumnName": "cr5c2_q23saved",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23ScreeningAssess",
+    "LogicalColumnName": "cr5c2_q23screeningassess",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q23VerificationAssess",
+    "LogicalColumnName": "cr5c2_q23verificationassess",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Archived",
+    "LogicalColumnName": "darjo_archived",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "ClientKey",
+    "LogicalColumnName": "darjo_clientkey",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "DarjoRNRevew2",
+    "LogicalColumnName": "darjo_darjornrevew2id",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "RefID",
+    "LogicalColumnName": "darjo_newcolumn",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "ProviderID",
+    "LogicalColumnName": "darjo_providerid",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15ClinicalHealthCons",
+    "LogicalColumnName": "darjo_q15clinicalhealthcons",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15EnvSafetyRisk",
+    "LogicalColumnName": "darjo_q15envsafetyrisk",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15HealthCons",
+    "LogicalColumnName": "darjo_q15healthcons",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15InformedConscent",
+    "LogicalColumnName": "darjo_q15informedconscent",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15PersonDiscusion",
+    "LogicalColumnName": "darjo_q15persondiscusion",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15PersonUnderstanding",
+    "LogicalColumnName": "darjo_q15personunderstanding",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15RiskPlan",
+    "LogicalColumnName": "darjo_q15riskplan",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15RisktoSafety",
+    "LogicalColumnName": "darjo_q15risktosafety",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15SupportOffered",
+    "LogicalColumnName": "darjo_q15supportoffered",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q15Type",
+    "LogicalColumnName": "darjo_q15type",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21MentalHealthCond",
+    "LogicalColumnName": "darjo_q21mentalhealthcond",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "Q21ThoughtsOfHarmOptions",
+    "LogicalColumnName": "darjo_q21thoughtsofharmoptions",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "RNRevID",
+    "LogicalColumnName": "darjo_rnrevid",
+    "SourceTable": "DarjoRNReview2"
+  },
+  {
+    "FieldName": "SourceRecord",
+    "LogicalColumnName": "darjo_sourcerecord",
+    "SourceTable": "DarjoRNReview2"
+  }
+]
